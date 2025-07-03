@@ -2,9 +2,9 @@
   type: map
   contents:
     - name: Full Name
-      value: Jiangce Chen
+      value: Mihir Parcha
     - name: Languages
-      value: Mandarin, English, Wenzhuohua
+      value: English, Telugu, French, Hindi
 
 - title: Education
   type: time_table
